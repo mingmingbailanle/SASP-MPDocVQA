@@ -71,3 +71,7 @@ python web/start_server.py
 | uploads/ | 图片/PDF上传保存处 |
 | fonts/   | 字体存放处       |
 
+# 数据集
+MP-DocVQA（Multi-Page Document Visual Question Answering, 多页文档视觉问答）数据集进行模型训练与性能评估，该数据集由西班牙巴塞罗那自治大学计算机视觉中心（Computer Vision Center, Universitat Autònoma de Barcelona）构建并维护
+https://rrc.cvc.uab.es/?ch=17&com=tasks
+
